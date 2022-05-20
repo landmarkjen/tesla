@@ -1,4 +1,6 @@
 #list of users
 peter
 paul
-simon 
+simon
+
+echo user created 
