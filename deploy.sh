@@ -1,2 +1,4 @@
 deployment to the staging environment
-deploy java application
+deploy java applicatio
+echo good job
+tested and accepted 
